@@ -1,0 +1,7 @@
+# Module1 is meet and greet
+
+# Link to Lecture Typed Notes
+    - https://github.com/KingsGambitLab/Lecture_Notes/tree/master
+
+# Syllabus
+    - https://docs.google.com/spreadsheets/d/1UfxNSq5aK_-DsffLcqnmebZA5AbROPj_OJamQUIwTaw/edit?gid=0#gid=0

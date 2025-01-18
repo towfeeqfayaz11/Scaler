@@ -1,0 +1,25 @@
+Total course is divided into 16 modules
+
+# module1
+    - meet and greet
+
+# module2 (intermediate batch specific)
+    - Introduction to problem solving (1)
+    - covered below concepts on mentioned dates:
+        - 06/Jan/25 => Intermediate DSA: Introduction to problem solving
+        - 08/Jan/25 => Intermediate DSA: time complexity / space complexity
+        - 10/Jan/25 => Intermediate DSA: Intro to arrays
+        - 13/Jan/25 => Intermediate DSA: Arrays: prefix sum
+        - 15/Jan/25 => Intermediate DSA: Arrays: carry forward and subarrays
+        - 17/Jan/25 => Intermediate DSA: Arrays: Sliding Window and Contribution Technique
+
+# module3 (intermediate batch specific)
+    - Introduction to problem solving (2)
+    - covered below concepts on mentioned dates:
+        - 22/Jan/25 => Intermediate DSA: Memory Management
+        - 24/Jan/25 => Intermediate DSA: Sorting Basics
+        - 27/Jan/25 => Intermediate DSA: Arrays: 2D Matrics
+        - 29/Jan/25 => Intermediate DSA: Bit Manipulation Basics
+        - 31/Jan/25 => Intermediate DSA: Strings
+        - 04/Feb/25 => Intermediate DSA: Interview Problems
+        - 06/Feb/25 => Intermediate DSA: Intermediate DSA contest
